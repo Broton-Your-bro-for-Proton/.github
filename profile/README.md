@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/broton-logo-transparent-512.png" alt="Broton logo" width="200">
+  <img src="images/broton-logo-transparent-512.png" alt="Broton logo" width="300">
 </p>
 
 <h1 align="center">Broton: your bro for Proton</h1>
