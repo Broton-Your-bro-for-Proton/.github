@@ -49,7 +49,7 @@ Bro for Proton is here to help. Broton is a small family of Thunderbird add-ons,
 
 ## Status
 
-All add-ons are test versions and not yet signed by Mozilla. Each repository explains how to install it.
+All three add-ons have stable releases on GitHub. Each repository explains how to install it.
 
 ---
 
